@@ -704,7 +704,7 @@ mentionedJid:[user],
 "title": [wm, ' ' + wm + '😊', '🌟'].getRandom(),
 "containsAutoReply": true,
 "mediaType": 1, 
-sourceUrl: 'https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11'}}}, { quoted: fkontak2 }) 
+sourceUrl: 'https://whatsapp.com/channel/0029Vb89jenCnA80Um9na63M'}}}, { quoted: fkontak2 }) 
 if (media === 'audio')
 this.sendMessage(id, { audio: { url: vn }, contextInfo:{ mentionedJid:[user], "externalAdReply": { "thumbnail": apii.data, "title": `乂 ＷＥＬＣＯＭＥ 乂`, "body": [wm, ' ' + wm + '😊', '🌟'].getRandom(), "previewType": "PHOTO", "thumbnailUrl": null, "showAdAttribution": true,  sourceUrl: 'https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11'}},  ptt: true, mimetype: 'audio/mpeg', fileName: `error.mp3` }, { quoted: fkontak2 })
 //this.sendFile(id, apii.data, 'pp.jpg', text, null, false, { mentions: [user] }, { quoted: fkontak2 })
